@@ -1,0 +1,17 @@
+/* pages/main/main.wxss */
+.place{
+  width:50fpx;
+  height:50fpx;
+  background:#E64340;
+  position:absolute; 
+  left:330rpx; 
+  bottom:5rpx;
+  -webkit-border-radius: 50px;
+  -moz-border-radius: 50px;
+  border-radius: 50px; 
+  color:#fff;
+}
+
+.details{
+  margin-right:14px; 
+}
